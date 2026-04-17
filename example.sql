@@ -1,0 +1,2 @@
+-- Active: 1776236978807@@localhost@3306@test1
+SHOW DATABASES;
